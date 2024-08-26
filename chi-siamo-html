@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chi Siamo - Allevamento di Cocker Spaniel</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Allevamento di Cocker Spaniel</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="chi-siamo.html">Chi Siamo</a></li>
+                <li><a href="cani.html">I Nostri Cani</a></li>
+                <li><a href="galleria.html">Galleria</a></li>
+                <li><a href="contatti.html">Contatti</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="chi-siamo">
+            <h2>Chi Siamo</h2>
+            <p>Siamo un allevamento familiare dedicato alla razza Cocker Spaniel. La nostra passione per questi cani iniziò molti anni fa e da allora ci impegniamo a garantire il benessere e la salute dei nostri amici a quattro zampe.</p>
+            
+            <h3>La Nostra Storia</h3>
+            <p>Il nostro allevamento è nato dalla passione per la razza Cocker Spaniel. Abbiamo iniziato con un piccolo numero di cani e, grazie alla nostra dedizione e amore, siamo cresciuti fino a diventare un punto di riferimento per gli amanti della razza.</p>
+            
+            <h3>Il Nostro Team</h3>
+            <p>Il nostro team è composto da esperti appassionati che si prendono cura dei cani con la massima attenzione. Ogni membro del nostro team condivide la stessa passione e dedizione per i Cocker Spaniel, assicurando che ogni cane riceva il miglior trattamento possibile.</p>
+            
+            <h3>Il Nostro Impegno</h3>
+            <p>Ci impegniamo a seguire elevati standard di allevamento, assicurandoci che ogni cane sia sano, felice e ben socializzato. La nostra priorità è il benessere dei nostri cani, e facciamo tutto il possibile per garantire che abbiano una vita sana e felice.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Allevamento di Cocker Spaniel. Tutti i diritti riservati.</p>
+    </footer>
+</body>
+</html>
